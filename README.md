@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SeaFrotress as a Data Scientist<br>👯 I’m looking to collaborate on ML/IA and Data projects<br>🤝 I’m looking for help with ML/IA concepts and C#<br>🌱 I’m currently learning Pandas, Tensorflow, Scikit-Learn and C#<br>💬 Ask me about Python, Math, Octave, Numerical Analysis and Statistic
+🔭 I’m currently working on VRSoftware as a Support Assistant<br>👯 I’m looking to collaborate on ML/IA and Data projects<br>🤝 I’m looking for help with ML/IA concepts<br>🌱 I’m currently learning Pandas, Tensorflow, Scikit-Learn<br>💬 Ask me about Python, Math, Octave, Numerical Analysis and Statistic
 
 
 ## 🌐 Socials:
